@@ -1,1 +1,1 @@
-# Pizza-Sales-SQL-
+The goal of this project is to analyze pizza order data by determining the total number of orders, categorizing the different types of pizzas, and calculating the total revenue. This analysis will offer valuable insights into sales trends and customer preferences."
